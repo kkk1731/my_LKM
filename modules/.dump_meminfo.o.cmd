@@ -1,0 +1,1 @@
+cmd_/home/kk1731/LKM/test/modules/dump_meminfo.o := ld -m elf_x86_64    -r -o /home/kk1731/LKM/test/modules/dump_meminfo.o /home/kk1731/LKM/test/modules/main.o /home/kk1731/LKM/test/modules/v2p.o /home/kk1731/LKM/test/modules/mem_profile.o

@@ -1,0 +1,1 @@
+cmd_/home/kk1731/LKM/test/modules/dump_meminfo.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/kk1731/LKM/test/modules/dump_meminfo.ko /home/kk1731/LKM/test/modules/dump_meminfo.o /home/kk1731/LKM/test/modules/dump_meminfo.mod.o;  true

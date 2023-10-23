@@ -1,0 +1,1 @@
+cmd_/home/kk1731/LKM/test/modules/dump_meminfo.mod := { echo  /home/kk1731/LKM/test/modules/main.o /home/kk1731/LKM/test/modules/v2p.o /home/kk1731/LKM/test/modules/mem_profile.o;  echo; } > /home/kk1731/LKM/test/modules/dump_meminfo.mod
